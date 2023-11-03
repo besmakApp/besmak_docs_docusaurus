@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
   url: 'https://besmak_docs_docusaurus.github.io', // Your website URL
-  baseUrl: '/',
+  baseUrl: '/besmak_docs_docusaurus/',
   projectName: 'besmak_docs_docusaurus.github.io',
   organizationName: 'besmak_docs_docusaurus',
   trailingSlash: false,
