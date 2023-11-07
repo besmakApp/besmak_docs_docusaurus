@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website_4=self.webpackChunkmy_website_4||[]).push([[954],{7055:e=>{e.exports=JSON.parse('{"permalink":"/besmak_docs_docusaurus/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
